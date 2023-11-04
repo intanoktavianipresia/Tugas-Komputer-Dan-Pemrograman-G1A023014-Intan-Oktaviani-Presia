@@ -1,6 +1,6 @@
-# Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia
-#Pembahasan
-##No 1
+#Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia
+##Pembahasan
+###No 1
 1. perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
  sh
    for (int i = 1; i <= 100; i++)
@@ -19,7 +19,7 @@ sh
 }
    
 
-##No 2
+###No 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
 sh
    Scanner scanner = new Scanner(System.in);
@@ -43,7 +43,7 @@ sh
 }
    
 
-##No 3
+###No 3
 1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 1 10 untuk tanggal 1 Oktober). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
 sh
    Scanner scanner = new Scanner(System.in);
@@ -85,8 +85,8 @@ sh
         } else {
             return null;
         }
-   
- ##No 4
+
+   ###No 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
 sh
     int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
