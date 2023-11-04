@@ -18,6 +18,9 @@ sh
    System.out.println("Intan Oktaviani Presia");
 }
    
+4. Berikut Hasil Output dari program yang dijalankan
+   ![image](https://github.com/intanoktavianipresia/Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia/assets/149862181/e986547e-f7ec-4eaf-931f-e02e5d4d5edd)
+
 
 ### No 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
@@ -41,7 +44,10 @@ sh
             System.out.print("Masukkan sebuah bilangan bulat (atau 0 untuk keluar): ");
             number = scanner.nextInt();
 }
-   
+
+4. Berikut hasil dari output program yang dijalankan
+   ![image](https://github.com/intanoktavianipresia/Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia/assets/149862181/2fa4d7fa-3a8f-4f36-984d-1c5f400a2723)
+
 
 ### No 3
 1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 1 10 untuk tanggal 1 Oktober). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
@@ -86,6 +92,10 @@ sh
             return null;
         }
 
+5. Berikut hasil dari output program yang dijalankan
+   ![image](https://github.com/intanoktavianipresia/Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia/assets/149862181/a1f01459-7290-420a-8cf2-e64fd291c883)
+
+   
    ### No 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
 sh
@@ -95,4 +105,5 @@ sh
         for (int i = 0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
         }
-   
+2. Berikut hasil dari output program yang dijalankan
+   ![image](https://github.com/intanoktavianipresia/Tugas-Komputer-Dan-Pemrograman-G1A023014-Intan-Oktaviani-Presia/assets/149862181/e27169ea-7623-4297-915a-f7b21b8cd80b)
